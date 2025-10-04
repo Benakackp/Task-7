@@ -1,0 +1,4 @@
+Best Model Found by GridSearchCV
+Best Params: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Best CV Score: 0.9673
+Test Accuracy: 0.9766

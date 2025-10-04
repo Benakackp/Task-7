@@ -1,0 +1,7 @@
+SVM Binary Classification Summary
+Linear Accuracy: 0.9766
+RBF Accuracy: 0.9766
+Best Params: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Best CV Score: 0.9673
+Test Accuracy (Best Model): 0.9766
+Artifacts saved in: C:\Users\DELL\Desktop\Daily tasks\Task 7\artifacts
